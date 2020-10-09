@@ -8,6 +8,7 @@ import imageInSrc from './imageInSrc.jpg'
 
 function App() {
   return (
+
         
     <div className="cont">
        <div style={{border:"1px solid black",maxWidth:"100vw"}} className="div">
@@ -22,7 +23,6 @@ function App() {
          <source src={process.env.PUBLIC_URL + "/myVideo.mp4"} />
        </video>
    </div>
-    
     
   )
 }
