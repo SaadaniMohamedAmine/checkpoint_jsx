@@ -1,0 +1,32 @@
+.div {
+    border:5px solid #aaa;
+    padding:20px;
+    width:40%;
+    margin:20px auto;
+    box-shadow:3px 4px 7px #bbb;
+    border-radius:10px;
+}
+.title {
+    color:#bbb ;
+    font-size:30px;
+    text-shadow:3px 4px 7px #ccc
+}
+.red{
+    border-left:4px solid #aaa;
+    padding-left:10px;
+}
+.img {
+    display: block;
+    width:250px;
+    margin:10px auto;
+    box-shadow: 10px 10px 10px #ccc;
+}
+video {
+    display:block;
+    margin:20px auto;
+    border:2px solid #aaa;
+    padding:10px;
+    border-radius:10px;
+    width:70%;
+    background:#ddd;
+}
